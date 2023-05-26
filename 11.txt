@@ -11,7 +11,7 @@
     
 {
       "name": "live",
-      "url": "http://wl.iptv6.top/5yue/1684671663.txt",
+      "url": "https://github.com/wuchangyrjw/01/raw/main/zb.txt",
       "type": 0,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
