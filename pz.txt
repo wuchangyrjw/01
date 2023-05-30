@@ -76,9 +76,9 @@
 
 {"key":"csp_apple","name":"「🍎苹果影视」‖影剧‖","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_AppYsV2_如意4K","name":"「如意Tv4K」‖影剧‖","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
+{"key":"csp_AppYsV2_如意4K","name":"「彩虹影视4K」‖影剧‖","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
 
-{"key": "csp_appys_如意4K", "name": "「如意4K」‖影剧‖","type": 3, "api": "csp_AppYsV2", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cms.maoyingshi.cc/api.php/app/"},
+{"key": "csp_appys_如意4K", "name": "「彩虹4K」‖影剧‖","type": 3, "api": "csp_AppYsV2", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cms.maoyingshi.cc/api.php/app/"},
 
 //{"key": "csp_IQIYI","name": "「 爱奇艺 」‖影剧‖","type": 3,"api": "csp_IQIYI","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
 
