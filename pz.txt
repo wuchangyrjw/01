@@ -64,7 +64,7 @@
     
     {"key":"csp_Kunyu77","name":"🛰️小薇✨〔wuhancd〕","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://52bsj.vip:81/api/v3/file/get/59542/1007.jar?sign=bkJykVTD6QDtfBpTDWQxnRyan-vn9IcpkUxZDIcnwXU%3D%3A0"},
 {"key":"csp_AppTT","name":"🐰图图影视","type":3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ==","m3u8ads": "hd.youyhn.com"},
-{"key" : "drpy_T4聚合","name" : "「TV吧首页」ㅤ官网:lltv8.top","type" : 3,"api" : "http://www.tvbox.lltv8.top/TVBox/JS/lib/drpy.min.js","ext":"http://www.tvbox.lltv8.top/TVBox/JS/js/drpy.js"},
+{"key" : "drpy_T4聚合","name" : "🛰️小薇✨〔wuhancd〕","type" : 3,"api" : "http://www.tvbox.lltv8.top/TVBox/JS/lib/drpy.min.js","ext":"http://www.tvbox.lltv8.top/TVBox/JS/js/drpy.js"},
 
 {"key": "Kunyu77","name": "「酷云七七」‖影剧‖","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
 
@@ -75,6 +75,10 @@
 {"key": "csp_appys_酷影","name": "「 酷影4K 」‖影剧‖","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://kuyun.realku.cn/api.php/app/"},
 
 {"key":"csp_apple","name":"「🍎苹果影视」‖影剧‖","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+
+{"key":"csp_AppYsV2_如意4K","name":"「如意Tv4K」‖影剧‖","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
+
+{"key": "csp_appys_如意4K", "name": "「如意4K」‖影剧‖","type": 3, "api": "csp_AppYsV2", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cms.maoyingshi.cc/api.php/app/"},
 
 //{"key": "csp_IQIYI","name": "「 爱奇艺 」‖影剧‖","type": 3,"api": "csp_IQIYI","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
 
@@ -225,7 +229,6 @@
 
 {"key": "Kuaikan","name": "「快看影院」‖影剧‖","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-
 {"key": "csp_biubiu_city电影","name": "「city电影」‖影剧‖","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://www.tvbox.lltv8.top/TVBox/MaooXB2/city电影.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
 
 {"key": "csp_xpath_meiju56","name": "「 美剧网 」‖影剧‖","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.tvbox.lltv8.top/TVBox/MaooXP/meiju562.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
@@ -252,11 +255,6 @@
 {"key": "LIBVIO","name": "「LIB 影视」‖影剧‖","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/liugd1005/home-tvbox/raw/master/TVBOX-XPath/LIBVIO.json","jar": "https://gitee.com/liugd1005/home-tvbox/raw/master/Home-Spiders/homespiders-xpath.jar;md5;9709252CC3CA4B015A2F86C128A06DB3"},
 
 {"key":"csp_ole","name":"「欧乐影院」‖影剧‖","type":4,"api":"https://php.dovxs.repl.co/vod/ole.php","searchable":1,"quickSearch":1,"filterable":1},
-
-
-{"key":"csp_AppYsV2_如意4K","name":"「如意Tv4K」‖影剧‖","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
-
-{"key": "csp_appys_如意4K", "name": "「如意4K」‖影剧‖","type": 3, "api": "csp_AppYsV2", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cms.maoyingshi.cc/api.php/app/"},
 
 {"key": "多米蓝光","name": "「多米蓝光」‖影剧‖","type": 3,"api": "csp_AppYsV2","searchable": 1, "quickSearch": 1,"filterable": 1,"ext": "http://vod.dmdh.top:5680/api.php/app/"},
 
