@@ -64,318 +64,135 @@
     
     {"key":"csp_Kunyu77","name":"🛰️小薇✨〔wuhancd〕","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://52bsj.vip:81/api/v3/file/get/59542/1007.jar?sign=bkJykVTD6QDtfBpTDWQxnRyan-vn9IcpkUxZDIcnwXU%3D%3A0"},
 {"key":"csp_AppTT","name":"🐰图图影视","type":3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ==","m3u8ads": "hd.youyhn.com"},
-{"key" : "drpy_T4聚合","name" : "「TV吧首页」ㅤ官网:lltv8.top","type" : 3,"api" : "http://www.tvbox.lltv8.top/TVBox/JS/lib/drpy.min.js","ext":"http://www.tvbox.lltv8.top/TVBox/JS/js/drpy.js"},
-
+{"key" : "drpy_T4聚合","name" : "🛰️小薇✨〔wuhancd〕","type" : 3,"api" : "http://www.tvbox.lltv8.top/TVBox/JS/lib/drpy.min.js","ext":"http://www.tvbox.lltv8.top/TVBox/JS/js/drpy.js"},
 {"key": "Kunyu77","name": "「酷云七七」‖影剧‖","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
-
-//{"key":"csp_AppYsV2_酷影蓝光","name":"「酷影蓝光」‖影剧‖","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://kuying.kuyouk.top:9528/api.php/app/"},
-
 {"key": "4KHDR","name": "「 4K HDR 」‖影剧‖","type": 3,"api": "csp_XYQHikerAL","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.tvbox.lltv8.top/TVBox/Hk/XYQHiker/4KHDR.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/spider.jar"},
-
 {"key": "csp_appys_酷影","name": "「 酷影4K 」‖影剧‖","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://kuyun.realku.cn/api.php/app/"},
-
 {"key":"csp_apple","name":"「🍎苹果影视」‖影剧‖","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
-
-//{"key": "csp_IQIYI","name": "「 爱奇艺 」‖影剧‖","type": 3,"api": "csp_IQIYI","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
-
 {"key":"csp_xpath_lezhutv","name":"「乐猪TV源」‖影剧‖","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://www.tvbox.lltv8.top/TVBox/MaooXP/乐猪XP.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/1673971904.txt;md5;49825cb8ec405dfe5d14f6260b45a560"},
-
 {"key": "csp_XYQHiker_乐猪影视","name": "「乐猪影视」‖影剧‖","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.tvbox.lltv8.top/TVBox/Hk/XYQHiker/乐猪TV.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/1673971904.txt;md5;49825cb8ec405dfe5d14f6260b45a560"},
-
 {"key": "csp_xBPQ_乐猪TV","name": "「乐猪影院」‖影剧‖","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"请求头\": \"手机\",\"副标题\": \"<span>&&</span>\",\"状态\": \"class=\\\"yac\\\">&&</p>\",\"简介\": \"class=\\\"tbox_js\\\">&&</div>\",\"播放数组\":\"class=\\\"list_block&&</ul>\",\"搜索url\": \"http://www.lezhutv.com/search-pg-{pg}-wd-{wd}.html\",\"搜索模式\": \"1\",\"搜索数组\": \"item-lazy&&</h4>\",\"搜索图片\": \"data-original=\\\"&&\\\"\",\"搜索标题\": \"title=\\\"&&\\\"\",\"搜索链接\": \"href=\\\"&&\\\"\",\"搜索副标题\": \"<span>&&</span>\",\"分类url\":\"http://www.lezhutv.com/type/{cateId}-{catePg}.html\"}","jar":"http://www.tvbox.lltv8.top/TVBox/jar/1673971904.txt;md5;49825cb8ec405dfe5d14f6260b45a560"},
-
 {"key": "csp_xBPQ_COKEMV","name": "「可乐影视」‖影剧‖","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://www.tvbox.lltv8.top/TVBox/xBPQ/COKEMVxbpq.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
-
 {"key": "csp_xBPQ_饭团影视","name": "「饭团影视」‖影剧‖","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://www.tvbox.lltv8.top/TVBox/xBPQ/饭团影视xbpq.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
-
 {"key": "csp_XYQHiker_qiyou","name": "「奇优影视」‖影剧‖","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://www.tvbox.lltv8.top/TVBox/Hk/XYQHiker/奇优影院.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
-
 {"key": "csp_xBPQ_奇优影院","name": "「奇优影院」‖影剧‖","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://www.tvbox.lltv8.top/TVBox/xBPQ/奇优影院xbpq.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/1673971904.txt;md5;49825cb8ec405dfe5d14f6260b45a560"},
-//{"key": "csp_biubiu_奇优影院(不支持搜)","name": "「奇优电影」‖影剧‖","type": 3,"api": "csp_XBiubiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "http://www.tvbox.lltv8.top/TVBox/MaooXB2/奇优影院（不支持搜）.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
-
 {"key": "csp_xpath_tjyy","name": "「奇优资源」‖影剧‖","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://www.tvbox.lltv8.top/TVBox/MaooXP/huigutongying.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
-
 {"key":"SixV","name":"「 6V电影 」‖影剧‖","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://www.tvbox.lltv8.top/TVBox/jar/fm1.jar"},
-
 {"key": "csp_XYQHiker_农民影视","name": "「农民影视」‖影剧‖", "type": 3, "api": "csp_XYQHiker","searchable": 1,"quickSearch": 1, "filterable": 1, "ext": "http://www.tvbox.lltv8.top/TVBox/Hk/XYQHiker/农民影视.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
-//{ "key": "csp_Nmys", "name": "「农民影院」‖影剧‖", "type": 3, "api": "csp_Nmys", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "http://www.tvbox.lltv8.top/TVBox/MaooXP/nmys.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
-
 {"key":"csp_YQKAPP","name":"「一起看TV」‖影剧‖","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-aws.11ty.top"},
-
 {"key": "csp_XYQHiker_野荷塘影院", "name": "「荷塘影院」‖影剧‖","type": 3, "api": "csp_XYQHiker","searchable": 1, "quickSearch": 1,"filterable": 1,"ext": "http://www.tvbox.lltv8.top/TVBox/Hk/XYQHiker/野荷塘影院.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/1673971904.txt;md5;49825cb8ec405dfe5d14f6260b45a560"},
-
 {"key":"csp_xBPQ_野荷塘","name":"「荷塘影视」‖影剧‖","type": 3,"api":"csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"{\"免嗅\":\"0\",\"嗅探词\": \"m3u8?#ixigua#.czspp#.m3u8#mp4#.flv#.mp3#.m4a#.mp4#item/video#is_play_url=1\",\"副标题\": \"vod_remarks*>&&<\",\"播放数组\": \"mdui-panel-item-body&&</div\",\"线路数组\": \"mdui-panel-item-title&&/div\",\"分类\":\"国产电视剧$13#电视剧$2#电影$1#动漫$4#综艺$3\",\"分类url\":\"https://yehetang.cc/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html\",\"年份\":\"2000-2022\",\"筛选\":\"1\"}","jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
-
 {"key": "明帝官采","name": "「明帝影视」‖影剧‖","type": 1, "api": "https://ys.md214.cn/api.php/provide/vod/", "searchable": 1,"quickSearch": 1,"filterable": 1,"categories":["电影","连续剧","综艺","动漫","直播"]},
-
 {"key":"csp_XYQHiker_艾斯影院","name":"「艾斯影院」‖影剧‖","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.tvbox.lltv8.top/TVBox/Hk/XYQHiker/xyqh_艾斯影院.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/1673971904.txt;md5;49825cb8ec405dfe5d14f6260b45a560"},
-
 {"key":"非凡影视","name":"「非凡影视」‖影剧‖","type":1,"api":"http://cj.ffzyapi.com//api.php/provide/vod", "playUrl": "json:https://www.itvbox.cc/fflz.php?url=","searchable":1,"quickSearch":1,"filterable":1,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
-
 {"key": "zy_量子资源","name": "「 量子资 」‖影剧‖","type": 1,"api": "https://cj.lziapi.com/api.php/provide/vod/","playUrl": "json:https://www.itvbox.cc/fflz.php?url=","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","韩国剧","欧美剧","记录片","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
-
-//{"key": "csp_QQ","name": "「腾讯视频」‖影剧‖","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"}, 
-//{"key": "drpy_js_腾云驾雾","name": "「腾讯官源」‖影剧‖",    "type": 3,"jar":"http://www.tvbox.lltv8.top/TVBox/jar/1677420653.txt;md5;EE39D6223759E1B9683EFD45D15F9134","api": "http://www.tvbox.lltv8.top/TVBox/JS/lib/drpy.min.js","ext": "http://www.tvbox.lltv8.top/TVBox/JS/js/腾云驾雾.js"},
-
-//{"key": "Mgtv","name": "「 芒果TV 」‖影剧‖","type": 3,"api": "Mgtv","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"}, 
-//{"key": "csp_MGTV","name": "「芒果视频」‖影剧‖","type": 3,"api": "csp_Mgtv","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"}, 
-//{"key": "MGT","name": "「芒果官源」‖影剧‖", "type": 3,"jar":"http://www.tvbox.lltv8.top/TVBox/jar/1677420653.txt;md5;EE39D6223759E1B9683EFD45D15F9134","api": "csp_Mgtv","searchable": 1,"quickSearch": 1,"filterable": 1},
-
-
 {"key":"csp_biubiu_搜狗影院","name":"「搜狗影院」‖影剧‖","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "{\"name\": \"搜狗影院(官)\",\r\n\"url\": \"http://sogouyy.cn\",\r\n\"tihuan\": \"cnzz.com\",\r\n\"User\": \"空\",\r\n\"fenlei\": \"电影$/s/dianying/page/#电视剧$/s/dianshiju/page/#综艺$/s/zongyi/page/#动漫$/s/dianying/page/#B站$/s/bilibili/page/\",\r\n\"houzhui\": \"---.html\",\r\n\"shifouercijiequ\": \"1\",\r\n\"jiequqian\": \"class=\\\"module-items\",\r\n\"jiequhou\": \"<div id=\\\"page\",\r\n\"jiequshuzuqian\": \"<div class=\\\"module-item\\\">\",\r\n\"jiequshuzuhou\": \"</div>\",\r\n\"tupianqian\": \"src=\\\"\",\r\n\"tupianhou\": \"\\\"\",\r\n\"biaotiqian\": \"title=\\\"\",\r\n\"biaotihou\": \"\\\"\",\r\n\"lianjieqian\": \"href=\\\"\",\r\n\"lianjiehou\": \"\\\"\",\r\n\"sousuoqian\": \"/index.php/ajax/suggest?mid=1&wd=\",\r\n\"sousuohou\": \"&limit=500\",\r\n\"sousuohouzhui\": \"/d/\",\r\n\"ssmoshi\": \"0\",\r\n\"sousuoshifouercijiequ\": \"0\",\r\n\"jspic\": \"pic\",\r\n\"jsname\": \"name\",\r\n\"jsid\": \"id\",\r\n\"ssjiequqian\": \"空\",\r\n\"ssjiequhou\": \"空\",\r\n\"ssjiequshuzuqian\": \"空\",\r\n\"ssjiequshuzuhou\": \"空\",\r\n\"sstupianqian\": \"空\",\r\n\"sstupianhou\": \"空\",\r\n\"ssbiaotiqian\": \"空\",\r\n\"ssbiaotihou\": \"空\",\r\n\"sslianjieqian\": \"空\",\r\n\"sslianjiehou\": \"空\",\r\n\"bfshifouercijiequ\": \"0\",\r\n\"bfjiequqian\": \"空\",\r\n\"bfjiequhou\": \"空\",\r\n\"bfjiequshuzuqian\": \"class=\\\"sort-item\\\"\",\r\n\"bfjiequshuzuhou\": \"</div>\",\r\n\"zhuangtaiqian\": \"集数：</span>\",\r\n\"zhuangtaihou\": \"</div>\",\r\n\"daoyanqian\": \"导演：</span>\",\r\n\"daoyanhou\": \"</div>\",\r\n\"zhuyanqian\": \"主演：</span>\",\r\n\"zhuyanhou\": \"</div>\",\r\n\"juqingqian\": \"class=\\\"video-info-item video-info-content vod_content\\\">\",\r\n\"juqinghou\": \"<a\",\r\n\"bfyshifouercijiequ\": \"0\",\r\n\"bfyjiequqian\": \"空\",\r\n\"bfyjiequhou\": \"空\",\r\n\"bfyjiequshuzuqian\": \"<a\",\r\n\"bfyjiequshuzuhou\": \"/a>\",\r\n\"bfbiaotiqian\": \"<span>\",\r\n\"bfbiaotihou\": \"<\",\r\n\"bflianjieqian\": \"href=\\\"\",\r\n\"bflianjiehou\": \"\\\"\"}","jar":"http://www.tvbox.lltv8.top/TVBox/jar/1673971904.txt;md5;49825cb8ec405dfe5d14f6260b45a560"},
-
-
 {"key":"csp_biubiu_真不卡影院(不支持搜索)","name":"「不卡影院」‖影剧‖","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://www.tvbox.lltv8.top/TVBox/MaooXB2/真不卡0717.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/1673971904.txt;md5;49825cb8ec405dfe5d14f6260b45a560"},
-
 {"key":"csp_biubiu_骚火电影","name":"「骚火电影」‖影剧‖","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://www.tvbox.lltv8.top/TVBox/MaooXB2/骚火电影0713.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/1673971904.txt;md5;49825cb8ec405dfe5d14f6260b45a560"},
-
 {"key": "csp_AppMr","name": "「明明影视」‖影剧‖","type": 3,"api": "csp_AppMr","searchable": 1,"quickSearch": 1,"filterable": 1},
-
 {"key":"csp_xpath_libv1","name":"「 Libvio 」‖影剧‖","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.tvbox.lltv8.top/TVBox/MaooXP/libv.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
-
 {"key": "csp_SP2345","name": "「2345影视」‖影剧‖","type": 3, "api": "csp_SP2345","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"http://shuyuan.miaogongzi.net/shuyuan/1677420653.txt;md5;EE39D6223759E1B9683EFD45D15F9134"},
-
 {"key":"csp_appysv2_555电影","name":"「 555电影」‖影剧‖","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://555dy3.com/api.php/app/","jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
- 
-{"key": "csp_XYQHiker_爱看影视","name": "「爱看影视」‖影剧‖","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1, "filterable": 1,"ext": "http://www.tvbox.lltv8.top/TVBox/Hk/XYQHiker/爱看影视.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
-
+ {"key": "csp_XYQHiker_爱看影视","name": "「爱看影视」‖影剧‖","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1, "filterable": 1,"ext": "http://www.tvbox.lltv8.top/TVBox/Hk/XYQHiker/爱看影视.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
 {"key": "csp_XYQHiker_极客影院","name":"「极客影院」‖影剧‖","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.tvbox.lltv8.top/TVBox/Hk/XYQHiker/极客影院h.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
-//{"key":"csp_xBPQ_极客4k","name":"「 极客4k 」","type":3,"api":"csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"http://www.tvbox.lltv8.top/TVBox/xBPQ/极客4kxbpq.txt","jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
-
 {"key": "csp_xBPQ_360","name": "「 360影院」‖影剧‖","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://www.tvbox.lltv8.top/TVBox/xBPQ/360xbpq.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
-
-//{"key": "360_spider","name": "「360 影视」‖影剧‖","api": "csp_SP360","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
-
 {"key":"csp_xBPQ_万博剧院","name":"「万博剧院」‖影剧‖","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.tvbox.lltv8.top/TVBox/xBPQ/万博剧院xbpq.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
-
 {"key":"csp_xBPQ_剧情网","name":"「 剧情网 」‖影剧‖","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.tvbox.lltv8.top/TVBox/xBPQ/剧情网xbpq.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
-
 {"key": "csp_xBPQ_007影视","name": "「 007影视」‖影剧‖","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://www.tvbox.lltv8.top/TVBox/xBPQ/007影视xbpq.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"}, 
-
 {"key":"csp_xBPQ_低端影院","name":"「低端影院」‖影剧‖","type":3,"api":"csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"http://www.tvbox.lltv8.top/TVBox/xBPQ/低端影视xbpq.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
-
-
 {"key":"hnzy", "name":"「红牛资源」‖影剧‖", "type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
-
 {"key":"csp_biubiu_dadagui","name":"「 达达龟 」‖影剧‖","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://www.tvbox.lltv8.top/TVBox/xpath/达达龟.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
-
 {"key": "csp_xpath_789kp","name": "「 789看片」‖影剧‖","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.tvbox.lltv8.top/TVBox/MaooXP/789kp.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
-
 {"key":"光速资源","name":"「光速资源」‖影剧‖","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-
 {"key": "百度","name": "「百度影视」‖影剧‖","type": 1,"api": "https://api.apibdzy.com/api.php/provide/vod?ac=list","searchable": 1,"filterable": 0,"categories": ["国产动漫", "日韩动漫", "大陆剧", "欧美剧", "韩剧", "日剧", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片"]},
-
 {"key":"csp_Auete","name":"「奥特影视」‖影剧‖","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Cokemv","name":"「可乐直连」‖影剧‖","type":3,"api":"csp_Cokemv","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_BuLei","name":"「布雷直连」‖影剧‖","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://v.ilime.cc$$$auto$$$sdlw1111$$$qqaa1122"},
-
 {"key":"布蕾蓝光","name":"「布蕾蓝光」‖影剧‖","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"","ext":"http://kan.bulei.cc/api.php/app/"},
-
 { "key": "csp_Dy1010", "name": "「双十影视」‖影剧‖", "type": 3, "api": "csp_Dy1010", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 {"key": "csp_XYQHiker_双十电影", "name": "「双十电影」‖影剧‖","type": 3, "api": "csp_XYQHiker","searchable": 1, "quickSearch": 1,"filterable": 1,"ext": "http://www.tvbox.lltv8.top/TVBox/Hk/XYQHiker/双十电影.json","jar":"http://www.tvbox.lltv8.top/TVBox/Hk/Hk.jar"},
-
 {"key":"csp_Czsapp","name":"「厂长资源」‖影剧‖","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://czzy.art/"},
 {"key": "影图影视","name": "「影图影视」‖影剧‖","type": 1,"api": "https://cj.vodimg.top/api.php/provide/vod/","searchable": 0,"quickSearch": 0},
 {"key":"csp_xBPQ_厂长资源","name":"「厂长影视」‖影剧‖","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://www.tvbox.lltv8.top/TVBox/xBPQ/厂长资源xbpq.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
 {"key":"csp_xBPQ霹雳","name":"「霹雳影院」‖影剧‖","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"免嗅":1,"分类":"电影$1#连续剧$2#综艺$3#动漫$4#记录片$41","分类url":"https://plyingshi.com/vodshow/{cateId}-{area}-{by}------{catePg}---{year}.html","数组":"class=\"module-item-pic&&</div>","播放数组":"sort-item&&</div>","播放列表": "VIP图标新*VIP图标新&&</a>","简介":"vod_content\"&&</div>","主演":"video-info-actor\"&&</div>"},"jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
-
 {"key": "ff9","name": "「ff9 资源」‖影剧‖","type": 1,"api": "https://www.ff9.top/api.php/provide/vod/","searchable": 1,"quickSearch": 1},
 {"key": "drpy_js_优酷","name": "「优酷资源」‖影剧‖","type": 3,"api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/duomv/duo/-/raw/main/js/youku.js"},
-
 {"key": "csp_IQIYI","name": "「 爱奇艺 」‖影剧‖","type": 3,"api": "csp_IQIYI","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
-
 {"key":"drpy_js_FreeOK","name":"「 FreeOK 」‖影剧‖","type":3,"api":"http://www.tvbox.lltv8.top/TVBox/JS/lib/drpy2.min.js","ext":"http://www.tvbox.lltv8.top/TVBox/JS/js/FreeOK.js"},
 {"key": "csp_freeok","name": "「Free资源」‖影剧‖","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
-
 {"key":"drpy_js_莫扎兔儿","name":"「莫扎兔儿」‖影剧‖","type":3,"api":"http://www.tvbox.lltv8.top/TVBox/JS/lib/drpy2.min.js","ext":"http://www.tvbox.lltv8.top/TVBox/JS/js/莫扎兔.js"},
-
-
-//{"key": "csp_XYQBiu_黑料电影","name":"「黑料电影」‖影剧‖","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.tvbox.lltv8.top/TVBox/HK/XYQBiu/黑料电影.json","jar":"http://www.tvbox.lltv8.top/TVBox/Hk/Hk.jar"},
 { "key": "csp_XYQBiu_神马影视", "name": "「神马影视」‖影剧‖", "type": 3, "api": "csp_XYQBiu", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "http://www.tvbox.lltv8.top/TVBox/HK/XYQBiu/神马XYQ.json","jar":"http://www.tvbox.lltv8.top/TVBox/Hk/Hk.jar"},
 {"key": "csp_XYQHiker_素白白影视", "name": "「素白影视」‖影剧‖","type": 3,"api": "csp_XYQHiker", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.tvbox.lltv8.top/TVBox/Hk/XYQHiker/素白白影视.json","jar":"http://www.tvbox.lltv8.top/TVBox/Hk/Hk.jar"},
-
-
-
 {"key": "csp_XYQHiker_renren","name": "「人人影视」‖影剧‖","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"playerType": "2","ext": "http://www.tvbox.lltv8.top/TVBox/Hk/XYQHiker/xyqh_人人影视.json","jar":"http://www.tvbox.lltv8.top/TVBox/Hk/Hk.jar"},
-
 {"key":"csp_XYQHiker_奈飞中文","name":"「奈飞中文」‖影剧‖","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.tvbox.lltv8.top/TVBox/Hk/XYQHiker/xyqh_奈飞中文.json","jar":"http://www.tvbox.lltv8.top/TVBox/Hk/Hk.jar"},
-
 {"key": "csp_XBPQ_大师兄","name": "「 大师兄 」‖影剧‖","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "免嗅:1,分类url:https://wxxkdp.com/vodshow/{cateId}-{area}-{by}------{catePg}---{year}.html","jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
 {"key":"csp_xBPQ_喵影","name":"「 喵影视 」‖影剧‖","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"免嗅":"1","简介": "module-info-introduction-content\"><p>&&</p>", "线路数组": "module-tab-item&&</div>","线路标题": "span>&&</small>", "副标题": "module-item-note\">&&</div>", "播放数组": "module-play-list\">&&</div>","分类url":"http://www.miaoys.cc/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"},"jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
-
 {"key":"csp_xBPQ_tvb影视","name":"「云播资源」‖影剧‖","type":3,"api":"csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"免嗅:1,分类url:http://www.tvyb03.com/vod/show/area/{area}/class/{class}/id/{cateId}/lang/{lang}/{catePg}/year/{year}.html","jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
 {"key":"csp_xBPQ_云播tv","name":"「云播影院」‖影剧‖","type":3,"api":"csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"免嗅:1,分类url:http://www.hktvyun.com/vod/show/area/{area}/class/{class}/id/{cateId}/lang/{lang}/year/{year}.html","jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
 {"key":"csp_xBPQ_万博剧院","name":"「万博剧院」‖影剧‖","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.tvbox.lltv8.top/TVBox/xBPQ/万博剧院xbpq.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
 {"key":"csp_xBPQ_星空影视1","name":"「星空影视」‖影剧‖","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"免嗅:1,分类url:https//www.skyy8.com/skyshow/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html","jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
 {"key":"csp_xBPQ_剧情网","name":"「 剧情网 」‖影剧‖","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.tvbox.lltv8.top/TVBox/xBPQ/剧情网xbpq.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
-
 {"key":"csp_xBPQ_大白","name":"「大白影院」‖影剧‖","type":3,"api":"csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"免嗅:1,分类url:http://dbys.cc/vodshow/area/{area}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html","jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
 {"key": "csp_XBPQ_51kan","name": "「51看资源」‖影剧‖","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"免嗅\":\"1\",\"播放数组\":\"class=\\\"hl-list-wrap&&</div>\",\"副标题\":\"class=\\\"hl-lc-1 remarks\\\">&&</span>\",\"简介\":\"class=\\\"hl-text-muted\\\"&&</li>\", \"线路数组\":\"javascript:void(0);&&/a>\",\"线路标题\":\"&nbsp;&&<\",\"分类\":\"电影$1#电视剧$2#国产剧$13#港剧$14#综艺$3#动漫$4\",\"分类url\":\"https://www.51kanju.cc/show{cateId}--{area}-{year}-/lang/{lang}{catePg}.html\"}","jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
-
 {"key": "csp_XBPQ_77影院","name": "「 77影院 」‖影剧‖","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":{"分类url":"https://www.77345.net/{cateId}/index{catePg}.html[https://www.77345.net/{cateId}/index.html]","播放链接二次截取":"var now=\"&&\"","嗅探词":".m3u8","过滤词": "?url="},"jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
 {"key": "csp_XBPQ_快看影视", "name": "「快看影视」‖影剧‖", "type": 3,"api": "csp_xBPQ", "searchable": 1,"quickSearch": 1, "filterable": 0,"ext": "http://www.tvbox.lltv8.top/TVBox/xBPQ/快看影视xbpq.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
 {"key": "csp_XBPQ_KOK影院","name": "「KOK 影院」‖影剧‖","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"分类\":\"电影$1#电视剧$2#综艺$3#动漫$4\",\"分类url\":\"https://www.kokyy.com/koks/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html\",\"数组\": \"<a target=\\\"_top&&</a>\",\"链接\": \"href='&&'\",\"图片\": \"data-original=\\\"&&\\\"\",\"标题\": \"title=\\\"&&影片信息\",\"副标题\": \"movie-rating cor4\\\">&&<\",\"播放数组\":\"ul class=\\\"content_playlist flex wrap&&</ul>\",\"简介\":\"summary detailsTxt\\\">&&<div\"}","jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
 {"key": "csp_XBPQ_无名小站","name": "「无名小站」‖影剧‖","type": 3,"api": "csp_xBPQ", "searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://www.tvbox.lltv8.top/TVBox/xBPQ/无名小站xbpq.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
-
-
 {"key":"csp_XBPQ_一龙","name":"「一龙影视」‖影剧‖","type":3,"api":"csp_xBPQ","ext":{"分类":"电影$1#连续剧$2#综艺$3#动漫$4#纪录片$5","分类url":"http://www.yilonghd.com/show/id-{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html;;mal"},"jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
-
 {"key":"csp_XBPQ_白狐","name":"「白狐影视」‖影剧‖","type":3,"api":"csp_xBPQ","ext":"http://www.tvbox.lltv8.top/TVBox/xBPQ/白狐影视xbpq.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
 {"key": "csp_XBPQ_两个BT","name": "「 两个BT 」‖影剧‖","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"线路数组":"mi_paly_box\">&&</div>","线路标题":"ypxingq_t\">&&<span>[替换:在线播放>>播放列表]","搜索url":"https://www.bttwoo.com/xssearch?q={wd}&f=_all&p={pg}","播放数组":"<div class=\"paly_list_btn\">&&</div>","分类":"最新电影$new-movie#电视剧$dsj#热门下载$hot#本月热门$new-movie#高分电影$new-month#国产剧$zgjun#美剧$meiju#日韩剧$jpsrtv","分类url":"https://www.bttwo.net/{cateId}/{area}/{year}/{class}/page/{catePg}"},"jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
-
 {"key": "Kuaikan","name": "「快看影院」‖影剧‖","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
-
-
 {"key": "csp_biubiu_city电影","name": "「city电影」‖影剧‖","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://www.tvbox.lltv8.top/TVBox/MaooXB2/city电影.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
-
 {"key": "csp_xpath_meiju56","name": "「 美剧网 」‖影剧‖","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.tvbox.lltv8.top/TVBox/MaooXP/meiju562.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
-
 {"key": "csp_biubiu_去看吧","name": "「 去看吧 」‖影剧‖","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://www.tvbox.lltv8.top/TVBox/MaooXB2/去看吧.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
-
 {"key":"csp_xp_vip1280","name":"「VIP 电影」‖影剧‖","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/vip1280.json"},
-
 {"key":"csp_app_2号币","name":"「二号影视」‖影剧‖","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://phoebe.cf/api.php/iptv/vod/"},
-
 {"key":"csp_xml_xinlang","name":"「新浪资源」‖影剧‖","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-
 {"key":"csp_xml_U酷资源","name":"「U酷 资源」‖影剧‖","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-
-//{"key":"csp_xml_卧龙资源","name":"「卧龙资源」‖影剧‖","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-
 {"key":"csp_xml_鱼乐资源","name":"「鱼乐资源」‖影剧‖","type":1,"api":"https://www.ylzy1.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-
 {"key": "csp_XYQHiker_北川影视","name": "「北川影视」‖影剧‖","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/liugd1005/home-tvbox/raw/master/TVBOX-XYQHiker/bcys.json","jar": "https://gitee.com/liugd1005/home-tvbox/raw/master/Home-Spiders/homespiders-xpath.jar;md5;9709252CC3CA4B015A2F86C128A06DB3"},
 {"key": "csp_XYQHiker_慢大浪影视","name": "「大浪影视」‖影剧‖","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/liugd1005/home-tvbox/raw/master/TVBOX-XYQHiker/mdlys.json","jar": "https://gitee.com/liugd1005/home-tvbox/raw/master/Home-Spiders/homespiders-xpath.jar;md5;9709252CC3CA4B015A2F86C128A06DB3"},
-
-    
 {"key": "csp_XYQHiker_FREEOK","name": "「Free影视」‖影剧‖","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/liugd1005/home-tvbox/raw/master/TVBOX-XPath/FREEOK.json","jar": "https://gitee.com/liugd1005/home-tvbox/raw/master/Home-Spiders/homespiders-xpath.jar;md5;9709252CC3CA4B015A2F86C128A06DB3"},
 {"key": "LIBVIO","name": "「LIB 影视」‖影剧‖","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/liugd1005/home-tvbox/raw/master/TVBOX-XPath/LIBVIO.json","jar": "https://gitee.com/liugd1005/home-tvbox/raw/master/Home-Spiders/homespiders-xpath.jar;md5;9709252CC3CA4B015A2F86C128A06DB3"},
-
 {"key":"csp_ole","name":"「欧乐影院」‖影剧‖","type":4,"api":"https://php.dovxs.repl.co/vod/ole.php","searchable":1,"quickSearch":1,"filterable":1},
-
-
 {"key":"csp_AppYsV2_如意4K","name":"「如意Tv4K」‖影剧‖","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
-
 {"key": "csp_appys_如意4K", "name": "「如意4K」‖影剧‖","type": 3, "api": "csp_AppYsV2", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cms.maoyingshi.cc/api.php/app/"},
-
 {"key": "多米蓝光","name": "「多米蓝光」‖影剧‖","type": 3,"api": "csp_AppYsV2","searchable": 1, "quickSearch": 1,"filterable": 1,"ext": "http://vod.dmdh.top:5680/api.php/app/"},
-
 {"key":"虎牙","name":"「虎牙采集」‖影剧‖","type":1,"api":"https://www.huyaapi.com/api.php/provide/vod/from/hym3u8","searchable":1,"quickSearch":1 ,"categories": ["内地剧","动作片","科幻片","战争片","喜剧片","爱情片","恐怖片","犯罪片","剧情片","冒险片","记录片","伦理片","韩剧","香港剧","台湾剧","欧美剧","日剧","马泰剧","体育赛事","综艺","动画片","中国动漫","日本动漫","欧美动漫"]},
-
 {"key": "飞云","name": "「飞云直连」‖影剧‖","type": 3,"api": "csp_AppYsV2","playerType": 2,"ext": "http://hdvod.top/ruifenglb_api.php/v1.vod"},
-
-
 {"key": "csp_XYQHiker_Vidhub视频库","name":"「 Vidhub 」‖影剧‖","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.tvbox.lltv8.top/TVBox/Hk/XYQHiker/Vidhub视频库.json","jar":"http://www.tvbox.lltv8.top/TVBox/Hk/Hk.jar"},
-
 {"key": "csp_XYQHiker_宝仙HD","name":"「 宝仙HD 」‖影剧‖","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.tvbox.lltv8.top/TVBox/HK/XYQHiker/宝仙HD.json","jar":"http://www.tvbox.lltv8.top/TVBox/Hk/Hk.jar"},
-
-
 {"key": "csp_XBPQ_热播","name": "「热播影视」‖影剧‖","type": 3,"api": "csp_xBPQ","ext": {"主页url": "https://rebozj.pro","数组": "class=\"stui-vodlist__thumb lazyload&&</a>","图片": "data-original=\"&&\"","标题": "title=\"&&\"","链接": "href=\"&&\"","副标题": "class=\"pic-text text-right\"><b>&&</span>","搜索模式": "1","搜索url": "https://rebozj.pro/search/-------------.html?wd=","搜索数组": "class=\"stui-vodlist__thumb lazyload&&</a>","搜索图片": "original=\"&&\"","搜索标题": "title=\"&&\"","搜索副标题": "class=\"pic-text text-right\"><b>&&</span>","搜索链接": "href=\"&&\"","播放数组": "<ul class=\"stui-content__playlist sort-list maxheight clearfix&&</ul>","播放列表": "<a&&/a>","播放标题": ">&&<","影片类型": "类型：&&</p>","导演": "导演：&&</p>","主演": "主演：&&</p>","简介": "display: none;\">&&</span>","分类": "电视剧$2#电影$1#综艺$3#动漫$4","分类url": "https://rebozj.pro/show/{cateId}--{area}------{catePg}---{year}.html;;cma"},"jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
-
-
 {"key": "csp_XBPQ_端木","name": "「端木 vip」‖影剧‖","type": 3,"api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1,"ext": {"导演":"导演：&&</div>","主演":"主演：&&</div>","简介":"剧情:&&</p>","数组": "module-item-pic\">&&</div>","搜索数组": "module-item\">&&</a >","线路数组": "data-dropdown-value=&&</div>", "线路标题": "<span>&&</small>[不包含:高清]","播放数组": "scroll-content\">&&</div>","分类": "电影$1#电视剧$2#综艺$3#动漫$4","分类url": "http://dmsvip1.top/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/letter/{letter}/year/{year}.html"}},
-
 {"key": "csp_XBPQ_98影院","name": "「 98影院 」‖影剧‖","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"分类":"电影&电视剧&综艺&动漫","分类值":"dianyingpian&dianshiju&zongyi&dongman","分类url":"http://www.98kpw.com/{cateId}/index{catePg}.html[http://www.98kpw.com/{cateId}/index.html]"}},	
-
-
 {"key": "3EDY","name": "「  3EDY  」‖影剧‖","type": 3,"api": "csp_EEEDY","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
-
-
 {"key": "csp_xpath_xfeiji","name": "「小小影视」‖影剧‖","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://www.tvbox.lltv8.top/TVBox/MaooXP/xfeiji.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
-
 {"key":"drpy_js_88看球","name":"「八八看球」‖球赛‖","type":3,"api":"http://www.tvbox.lltv8.top/TVBox/JS/lib/drpy.min.js","ext":"http://www.tvbox.lltv8.top/TVBox/JS/js/88看球.js"},
-
-
-//失效{"key": "csp_XYQBiu_黑料电影","name":"「黑料电影」","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.tvbox.lltv8.top/TVBox/HK/XYQBiu/黑料电影.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
-
-
-//失效{"key": "csp_xBPQ_花猫TV","name": "「 花猫TV 」","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://www.tvbox.lltv8.top/TVBox/xBPQ/花猫TVxbpq.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
-
-
-//失效{"key":"csp_biubiu_花猫TV","name":"「花猫影院」","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://www.tvbox.lltv8.top/TVBox/MaooXB2/花猫TV.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/1673971904.txt;md5;49825cb8ec405dfe5d14f6260b45a560"},
-
-//失效{"key":"csp_biubiu_口袋影院","name":"「口袋影院」","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://www.tvbox.lltv8.top/TVBox/MaooXB2/口袋0724.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/1673971904.txt;md5;49825cb8ec405dfe5d14f6260b45a560"},
-
-
-//失效{"key": "ff9","name": "「 ff9资源」","type": 1,"api": "https://www.ff9.top/api.php/provide/vod/","searchable": 1,"quickSearch": 1},
-
-//失效{"key":"csp_xBPQ_TVB云播","name":"「 TVB云播」","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://www.tvbox.lltv8.top/TVBox/xBPQ/TVB云播xbpq.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
-
-
-//失效{"key": "csp_freeok","name": "「 FreeOK 」","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
-
-//失效{"key":"csp_xBPQ_大白","name":"「大白影院」","type":3,"api":"csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"免嗅:1,分类url:http://dbys.cc/vodshow/area/{area}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html","jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
-
-
-//失效{"key": "csp_XBPQ_KOK影院","name": "「 KOK影院」","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"分类\":\"电影$1#电视剧$2#综艺$3#动漫$4\",\"分类url\":\"https://www.kokyy.com/koks/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html\",\"数组\": \"<a target=\\\"_top&&</a>\",\"链接\": \"href='&&'\",\"图片\": \"data-original=\\\"&&\\\"\",\"标题\": \"title=\\\"&&影片信息\",\"副标题\": \"movie-rating cor4\\\">&&<\",\"播放数组\":\"ul class=\\\"content_playlist flex wrap&&</ul>\",\"简介\":\"summary detailsTxt\\\">&&<div\"}","jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
-
-
-//失效{"key": "csp_XBPQ_wcmov","name": "「  wcmov 」","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"{\"分类\":\"电影$1#电视$2#综艺$3#动漫$4\",\"链接\": \"/9evd/+te7d/&&/\\\"+-1-1/\",\"线路数组\": \"class=\\\"tab-play&&</div>\",\"线路标题\": \"<h3>&&</h3>\",\"分类url\":\"https://www.wcmov.com/m3iv/{cateId}/area/{area}/page/{catePg}/year/{year}.html\"}","jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
-
-//失效{"key": "csp_xpath___动漫巴士","name": "‖动漫‖「卡通巴士」","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.tvbox.lltv8.top/TVBox/MaooXP/dongmanbashi.json"},
-
-//失效{"key":"csp_xBPQ_异界动漫","name":"‖动漫‖「异界动漫」","type":3,"api":"xBPQ","ext":"免嗅:1,分类:新番$22#完结$20#日剧$21,分类url:https://www.ysjdm.net/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/lang/{lang}/year/{year}/page/{catePg}.html","jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
-
-
-//{"key": "7itv","name": "「 7itv搜 」‖云盘‖","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": {"数组": "<a&&module-poster-item-info","分类": "电影$1#剧集$2#动漫$4#综艺$3#","播放数组": "module-mobile-play&<i","分类url": "https://www.7itv.com/vodshow/{cateId}--{by}------{catePg}---{year}.html"}},
-
-
-
-
-//{"key":"csp_GitCafe1","name":"刷新令(网络)","type":3,"api":"csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "http://ali.饭太硬.ml/alitoken","jar": "http://www.tvbox.lltv8.top/TVBox/jar/ali刷新.jar"},
-
 {"key":"csp_WoGG","name":"「 玩偶4K 」‖云盘‖","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.tvbox.lltv8.top/TVBox/jar/alitoken.txt"},
-
 {"key":"csp_GitCafe2","name":"「紙条搜索」‖云盘‖","type":3,"api":"csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "http://www.tvbox.lltv8.top/TVBox/jar/alitoken.txt","jar":"http://www.tvbox.lltv8.top/TVBox/Hk/Hk.jar"},
-
-//{"key": "紙條","name": "「 紙2搜索」‖云盘‖","type": 3,"api": "csp_Paper","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "http://www.tvbox.lltv8.top/TVBox/jar/alitoken.txt"},
-
 {"key":"七夜","name":"「 七夜搜 」‖云盘‖","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":0,"ext":"http://www.tvbox.lltv8.top/TVBox/jar/alitoken.txt"},
-
 {"key": "易搜","name": "「 易搜索 」‖云盘‖","type": 3,"api": "csp_YiSo","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "http://www.tvbox.lltv8.top/TVBox/jar/alitoken.txt"},
-
 {"key": "盤搜","name": "「 盘搜索 」‖云盘‖","type": 3,"api": "csp_PanSou","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "http://www.tvbox.lltv8.top/TVBox/jar/alitoken.txt"},
-
 {"key":"PanSearch","name":"「 Search 」‖云盘‖","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://www.tvbox.lltv8.top/TVBox/jar/alitoken.txt"},
-
 {"key": "UP云搜","name": "「 UP云搜 」‖云盘‖","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "http://www.tvbox.lltv8.top/TVBox/jar/alitoken.txt"},
-
 {"key":"csp_Bttoo","name":"「 BT1 搜 」‖云盘‖","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
-
 {"key": "csp_xpath_bttwoo","name": "「 BT2 搜 」‖云盘‖","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.tvbox.lltv8.top/TVBox/MaooXP/bttwoo.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
-
 {"key": "找資源","name": "「 找資源 」‖云盘‖","type": 3,"api": "csp_Zhaozy","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "http://www.tvbox.lltv8.top/TVBox/jar/alitoken.txt$$$自己去注册$$$qq112233"},
-
 {"key": "push_agent","name": "「 推送搜 」‖云盘‖","type": 3,"api": "csp_Push","searchable": 1,"filterable": 0,"switchable": 0,"ext": "http://www.tvbox.lltv8.top/TVBox/jar/alitoken.txt"},
-
 {"key": "csp_Alist1","name": "「 Alist搜」‖云盘‖","type": 3, "api": "csp_AList","searchable": 1, "filterable": 1,"ext":"http://www.tvbox.lltv8.top/TVBox/Bilibili/Alist1.json"},
-
-
 {"key": "csp_xpath_dm84","name": "「动漫巴士」‖动漫‖","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://www.tvbox.lltv8.top/TVBox/MaooXP/dm84.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
-
 {"key":"csp_xBPQ_异界动漫","name":"「异界动漫」‖动漫‖","type":3,"api":"csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"免嗅:1,分类:新番$22#完结$20#日剧$21,分类url:https://www.ysjdm.net/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/lang/{lang}/year/{year}/page/{catePg}.html","jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
-
 {"key": "妮可动漫","name": "「妮可动漫」‖动漫‖","type": 3,"api": "http://www.tvbox.lltv8.top/TVBox/JS/lib/drpy.min.js","ext": "http://www.tvbox.lltv8.top/TVBox/JS/js/妮可动漫.js"},
-
 {"key": "小鸟动漫","name": "「小鸟动漫」‖动漫‖","type": 1,"api":"http://xydm.baicai.buzz/api.php/provide/vod/",
 "searchable": 0,"quickSearch": 0,"filterable": 0,"jar": "http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
-
 {"key": "动漫直链","name": "「动漫直链」‖动漫‖","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://www.tvbox.lltv8.top/TVBox/MaooXP/动漫直链xp.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
-
-
 {"key": "csp_Anime1","name": "「日本动漫」‖动漫‖","type": 3,"api": "csp_Anime1","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
-
 {"key": "drpy_js_兔小贝","name": "「幼儿动漫」‖动漫‖","type": 3,"api": "http://www.tvbox.lltv8.top/TVBox/JS/lib/drpy2.min.js","ext": "http://www.tvbox.lltv8.top/TVBox/JS/js/兔小贝.js"},
-
 {"key": "csp_xpath_dmw","name": "「 动漫岛 」‖动漫‖","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.tvbox.lltv8.top/TVBox/MaooXP/dmw.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/1673971904.txt;md5;49825cb8ec405dfe5d14f6260b45a560"},
-
 {"key": "外语","name": "「外语学堂」‖教育‖","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "http://www.tvbox.lltv8.top/TVBox/Bilibili/哔哩外语.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/1673971904.txt;md5;49825cb8ec405dfe5d14f6260b45a560"},
-
 {"key": "学堂","name": "「学堂教育」‖教育‖","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "http://www.tvbox.lltv8.top/TVBox/Bilibili/吾爱学堂.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/1673971904.txt;md5;49825cb8ec405dfe5d14f6260b45a560"},
-
 {"key": "csp_bendi", "name": "「本地视频」‖目录‖","type": 3,"api": "csp_LocalFile","searchable": 0,"quickSearch": 0,"filterable": 0,"type_flag": 1,"jar":"http://www.tvbox.lltv8.top/TVBox/jar/1673971904.txt;md5;49825cb8ec405dfe5d14f6260b45a560"},
 {"key": "MV","name": "「哔哩MV」‖文艺‖","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://www.tvbox.lltv8.top/TVBox/Bilibili/吾爱MTV.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/1673971904.txt;md5;49825cb8ec405dfe5d14f6260b45a560"},
-
 {"key": "戏曲自定义","name": "「哔哩戏曲」‖文艺‖","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://www.tvbox.lltv8.top/TVBox/Bilibili/吾爱戏曲.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/1673971904.txt;md5;49825cb8ec405dfe5d14f6260b45a560"},
 {
             "key": "csp_BuLei",
