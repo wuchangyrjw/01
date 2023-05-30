@@ -74,7 +74,7 @@
 
 {"key": "csp_appys_酷影","name": "「 酷影4K 」‖影剧‖","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://kuyun.realku.cn/api.php/app/"},
 
-{"key":"csp_apple","name":"「苹果影视」‖影剧‖","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_apple","name":"「🍎苹果影视」‖影剧‖","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 
 //{"key": "csp_IQIYI","name": "「 爱奇艺 」‖影剧‖","type": 3,"api": "csp_IQIYI","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
 
@@ -377,12 +377,6 @@
 {"key": "MV","name": "「哔哩MV」‖文艺‖","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://www.tvbox.lltv8.top/TVBox/Bilibili/吾爱MTV.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/1673971904.txt;md5;49825cb8ec405dfe5d14f6260b45a560"},
 
 {"key": "戏曲自定义","name": "「哔哩戏曲」‖文艺‖","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://www.tvbox.lltv8.top/TVBox/Bilibili/吾爱戏曲.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/1673971904.txt;md5;49825cb8ec405dfe5d14f6260b45a560"},
-
-{"key": "软件","name": " 「软件教程」‖教程‖","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "http://www.tvbox.lltv8.top/TVBox/Bilibili/软件教程.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/1673971904.txt;md5;49825cb8ec405dfe5d14f6260b45a560"},
-
-{"key": "PS","name": "「 PS教程 」‖教程‖","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://www.tvbox.lltv8.top/TVBox/Bilibili/哔哩PS.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/1673971904.txt;md5;49825cb8ec405dfe5d14f6260b45a560"},
-
-{"key": "EXCEL","name": "「Excel学堂」‖教程‖","type": 3,"api": "csp_Bili","searchable":0,"quickSearch":0,"filterable": 1,"ext": "http://www.tvbox.lltv8.top/TVBox/Bilibili/吾爱Excel教程.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/1673971904.txt;md5;49825cb8ec405dfe5d14f6260b45a560"},
 {
             "key": "csp_BuLei",
             "name": "👁️布雷蓝光",
