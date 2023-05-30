@@ -172,6 +172,7 @@ CCTV卫生健康,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/20125
 
 🎈卫视直播,#genre#
 江苏卫视,https://live.goodiptv.club/api/bestv.php?id=jswshd8m/8000000
+江苏卫视,https://live.goodiptv.club/api/bestv.php?id=jswshd8m/8000000
 广西卫视,https://live.goodiptv.club/api/bestv.php?id=gxwshd8m/8000000
 四川卫视,https://live.goodiptv.club/api/bestv.php?id=scwshd/8000000
 湖南卫视,https://live.goodiptv.club/api/bestv.php?id=hunanwshd8m/8000000
