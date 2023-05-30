@@ -3,7 +3,7 @@
 
 
 
-"spider":"https://agit.ai/guot54/ygbh/raw/branch/master/JAR/0324.jar;md5;61bca6e5fd49bef5a2834109f23303a9","http://www.tvbox.lltv8.top/TVBox/jar/lltv8.jar",
+"spider":"http://www.tvbox.lltv8.top/TVBox/jar/lltv8.jar",
 
 "lives":[
 
