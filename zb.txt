@@ -78,6 +78,7 @@ CHC家庭影院,http://live.cooltv.top/tv/aishang.php?id=chcjtyy
 CHC高清电影,http://live.cooltv.top/tv/aishang.php?id=chcgqdy
 CHC家庭影院,http://125.40.191.58:9901/tsfile/live/1001_1.m3u8#http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8#http://117.148.179.157/PLTV/88888888/224/3221232942/index.m3u8#http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8#http://gxfrg007.8800.org:8282/tsfile/live/1096_1.m3u8#http://59.49.41.41/live.aishang.ctlcdn.com/00000110240323_1/playlist.m3u8?CONTENTID=00000110240323_1#http://117.148.179.151/PLTV/88888888/224/3221231799/index.m3u8
 CHC高清电影,http://gxfrg007.8800.org:8282/tsfile/live/1097_1.m3u8#http://59.49.41.44/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1#http://59.49.41.41/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1
+
 🎈央视直播,#genre#
 CCTV1,http://live.cooltv.top/tv/aishang.php?id=cctv1hd
 CCTV2,http://live.cooltv.top/tv/aishang.php?id=cctv2hd
@@ -170,14 +171,10 @@ CCTV卫生健康,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/20125
 江西卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000294103.m3u8
 
 🎈卫视直播,#genre#
-江苏卫视 8M
-https://live.goodiptv.club/api/bestv.php?id=jswshd8m/8000000
-广西卫视 8M
-https://live.goodiptv.club/api/bestv.php?id=gxwshd8m/8000000
-四川卫视 8M
-https://live.goodiptv.club/api/bestv.php?id=scwshd/8000000
-湖南卫视 8M
-https://live.goodiptv.club/api/bestv.php?id=hunanwshd8m/8000000
+江苏卫视,https://live.goodiptv.club/api/bestv.php?id=jswshd8m/8000000
+广西卫视,https://live.goodiptv.club/api/bestv.php?id=gxwshd8m/8000000
+四川卫视,https://live.goodiptv.club/api/bestv.php?id=scwshd/8000000
+湖南卫视,https://live.goodiptv.club/api/bestv.php?id=hunanwshd8m/8000000
 浙江卫视 8M
 https://live.goodiptv.club/api/bestv.php?id=zjwshd8m/8000000
 东方卫视 8M
