@@ -382,7 +382,7 @@
 
 {"key": "PS","name": "「 PS教程 」‖教程‖","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://www.tvbox.lltv8.top/TVBox/Bilibili/哔哩PS.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/1673971904.txt;md5;49825cb8ec405dfe5d14f6260b45a560"},
 
-{"key": "EXCEL","name": "「Excel学堂」‖教程‖","type": 3,"api": "csp_Bili","searchable":0,"quickSearch":0,"filterable": 1,"ext": "http://www.tvbox.lltv8.top/TVBox/Bilibili/吾爱Excel教程.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/1673971904.txt;md5;49825cb8ec405dfe5d14f6260b45a560"}
+{"key": "EXCEL","name": "「Excel学堂」‖教程‖","type": 3,"api": "csp_Bili","searchable":0,"quickSearch":0,"filterable": 1,"ext": "http://www.tvbox.lltv8.top/TVBox/Bilibili/吾爱Excel教程.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/1673971904.txt;md5;49825cb8ec405dfe5d14f6260b45a560"},
 {
             "key": "csp_BuLei",
             "name": "👁️布雷蓝光",
