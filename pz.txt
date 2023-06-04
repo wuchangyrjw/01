@@ -33,9 +33,9 @@
             "quickSearch": 0,
             "filterable": 0
         },
-{"key":"csp_77","name":"🌈彩虹影视🌈🌈省流量专用🌈","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_77","name":"🌈彩虹影视🌈省流🌈","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Kunyu77","name":"🛰️小薇✨〔wuhancd〕","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.kgithub.com/wuchangyrjw/01/main/xzy1029.jar"},
-{"key" : "drpy_T4聚合","name" : "✨彩虹🌈影视✨✨Q群614573061✨","type" : 3,"api" : "http://www.tvbox.lltv8.top/TVBox/JS/lib/drpy.min.js","ext":"http://www.tvbox.lltv8.top/TVBox/JS/js/drpy.js"},
+{"key" : "drpy_T4聚合","name" : "✨彩虹影视✨防迷路Q群614573061✨","type" : 3,"api" : "http://www.tvbox.lltv8.top/TVBox/JS/lib/drpy.min.js","ext":"http://www.tvbox.lltv8.top/TVBox/JS/js/drpy.js"},
 
 {"key":"dr_豆瓣","name":"🎞豆瓣首页🎞","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": "http://v.tvfan.top:88/tvbox/js/drpy.js","searchable":0,"quickSearch":0,"filterable":0},
 	// {"key": "csp_lezhu","name": "🐷乐猪影视🐷","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/68479/%E4%B9%90%E7%8C%AAXP.json?sign=-mbGfklZSjyMYL-zyJ_0rE2igcXTzyt8TXw0nyk2-7g%3D%3A0"},
