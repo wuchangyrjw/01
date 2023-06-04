@@ -25,7 +25,7 @@
 "sites":[
 {
             "key": "js豆瓣1",
-            "name": "点首页换源，自用资源来自网络勿信视频中广告，交流微信：wuhancd",
+            "name": "点首页换源,勿信视频中广告，交流QQ:335800496",
             "type": 3,
             "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
             "ext": "http://alist.xn--z7x900a.love:63/豆瓣.js",
@@ -33,10 +33,12 @@
             "quickSearch": 0,
             "filterable": 0
         },
-	 {"key": "csp_lezhu","name": "🐷乐猪影视🐷","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/68479/%E4%B9%90%E7%8C%AAXP.json?sign=-mbGfklZSjyMYL-zyJ_0rE2igcXTzyt8TXw0nyk2-7g%3D%3A0"},
-   
+{"key":"csp_77","name":"🌈彩虹影视🌈🌈省流量专用🌈","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_Kunyu77","name":"🛰️小薇✨〔wuhancd〕","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.kgithub.com/wuchangyrjw/01/main/xzy1029.jar"},
+{"key" : "drpy_T4聚合","name" : "✨彩虹🌈影视✨✨Q群614573061✨","type" : 3,"api" : "http://www.tvbox.lltv8.top/TVBox/JS/lib/drpy.min.js","ext":"http://www.tvbox.lltv8.top/TVBox/JS/js/drpy.js"},
 
 {"key":"dr_豆瓣","name":"🎞豆瓣首页🎞","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": "http://v.tvfan.top:88/tvbox/js/drpy.js","searchable":0,"quickSearch":0,"filterable":0},
+	// {"key": "csp_lezhu","name": "🐷乐猪影视🐷","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/68479/%E4%B9%90%E7%8C%AAXP.json?sign=-mbGfklZSjyMYL-zyJ_0rE2igcXTzyt8TXw0nyk2-7g%3D%3A0"},
   {      "key": "csp_Xinsj",      "name": "🎗️新视觉🎗️",      "type": 3,      "api": "csp_Xinsj",      "m3u8ads": "hd.youyhn.com",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "ext": "https://www.6080dy3.com"    }, 
 {"key":"csp_panghu","name":"🐯胖虎影视🐯","type":3,"api":"csp_Panghu","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1},
 {
@@ -52,25 +54,19 @@
             "m3u8ads": "hd.youyhn.com" },	    
     	{"key":"csp_SP360","name":" 🌈360🌈","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://52bsj.vip:81/api/v3/file/get/5660/360.jar?sign=UvvtkxrYYz1CQrSzwD98cpU4wQwTatQcDYOTRQ8x3wU%3D%3A0"},	
 {"key":"csp_AppTT","name":"🐰图图影视🐰","type":3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ==","m3u8ads": "hd.youyhn.com"},
-{"key":"csp_77","name":"🛰️小薇〔wuhancd〕🛰️移动设备省流量专用","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"csp_Kunyu77","name":"🛰️小薇✨〔wuhancd〕","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.kgithub.com/wuchangyrjw/01/main/xzy1029.jar"},
-{"key":"csp_apple","name":"🍎苹果App🍎勿信所有视频插播广告","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
+
+{"key":"csp_apple","name":"🍎苹果App🍎","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AppTT","name":"🐰图图影视🐰","type":3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ==","m3u8ads": "hd.youyhn.com"},
-{"key" : "drpy_T4聚合","name" : "✨小薇✨学习反馈请加〔wuhancd〕","type" : 3,"api" : "http://www.tvbox.lltv8.top/TVBox/JS/lib/drpy.min.js","ext":"http://www.tvbox.lltv8.top/TVBox/JS/js/drpy.js"},
 
 //{"key": "Kunyu77","name": "「酷云七七」‖影剧‖","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
 
-{"key": "4KHDR","name": "🍇 4K HDR🍇","type": 3,"api": "csp_XYQHikerAL","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.tvbox.lltv8.top/TVBox/Hk/XYQHiker/4KHDR.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/spider.jar"},
+//{"key": "4KHDR","name": "🍇 4K HDR🍇","type": 3,"api": "csp_XYQHikerAL","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.tvbox.lltv8.top/TVBox/Hk/XYQHiker/4KHDR.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/spider.jar"},
 
-{"key": "csp_appys_酷影","name": "🍈酷影4K🍈","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://kuyun.realku.cn/api.php/app/"},
+//{"key": "csp_appys_酷影","name": "🍈酷影4K🍈","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://kuyun.realku.cn/api.php/app/"},
 
 {"key":"csp_AppYsV2_如意4K","name":"🌈彩虹影视🌈4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
 
-{"key": "csp_appys_如意4K", "name": "🌈彩虹影视🌈4K","type": 3, "api": "csp_AppYsV2", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cms.maoyingshi.cc/api.php/app/"},
-
-{"key":"csp_xpath_lezhutv","name":"🐷乐猪TV🐷","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://www.tvbox.lltv8.top/TVBox/MaooXP/乐猪XP.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/1673971904.txt;md5;49825cb8ec405dfe5d14f6260b45a560"},
-
-{"key": "csp_XYQHiker_乐猪影视","name": "🐷乐猪影视🐷","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.tvbox.lltv8.top/TVBox/Hk/XYQHiker/乐猪TV.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/1673971904.txt;md5;49825cb8ec405dfe5d14f6260b45a560"},
+//{"key": "csp_XYQHiker_乐猪影视","name": "🐷乐猪影视🐷","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.tvbox.lltv8.top/TVBox/Hk/XYQHiker/乐猪TV.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/1673971904.txt;md5;49825cb8ec405dfe5d14f6260b45a560"},
 
 {"key": "csp_xBPQ_乐猪TV","name": "🐷乐猪影院🐷","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"请求头\": \"手机\",\"副标题\": \"<span>&&</span>\",\"状态\": \"class=\\\"yac\\\">&&</p>\",\"简介\": \"class=\\\"tbox_js\\\">&&</div>\",\"播放数组\":\"class=\\\"list_block&&</ul>\",\"搜索url\": \"http://www.lezhutv.com/search-pg-{pg}-wd-{wd}.html\",\"搜索模式\": \"1\",\"搜索数组\": \"item-lazy&&</h4>\",\"搜索图片\": \"data-original=\\\"&&\\\"\",\"搜索标题\": \"title=\\\"&&\\\"\",\"搜索链接\": \"href=\\\"&&\\\"\",\"搜索副标题\": \"<span>&&</span>\",\"分类url\":\"http://www.lezhutv.com/type/{cateId}-{catePg}.html\"}","jar":"http://www.tvbox.lltv8.top/TVBox/jar/1673971904.txt;md5;49825cb8ec405dfe5d14f6260b45a560"},
 
@@ -433,8 +429,8 @@
 {"key":"小学课堂","name":"📚小学┃课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://饭太硬.ga/x/json/小学课堂.json"},
 {"key":"初中课堂","name":"📚初中┃课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://饭太硬.ga/x/json/初中课堂.json"},
 {"key":"高中教育","name":"📚高中┃课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://饭太硬.ga/x/json/高中课堂.json"},
-    {"key":"22","name":"请勿相信视频中的任何广告","type":0,"api":""},
-    {"key":"18","name":"请勿相信视频中的任何广告","type":0,"api":""}
+    {"key":"22","name":"声明:资源采集于网络，请勿相信视频中的任何广告","type":0,"api":""},
+    {"key":"18","name":"声明:软件仅供学习参考，请于安装后24小时内删除","type":0,"api":""}
 ],
 
 "parses":[
