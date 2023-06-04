@@ -33,7 +33,7 @@
             "quickSearch": 0,
             "filterable": 0
         },
-{"key":"csp_77","name":"🌈彩虹影视🌈省流🌈","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_77","name":"🌈彩虹影视✨省流🌈","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Kunyu77","name":"🛰️小薇✨〔wuhancd〕","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.kgithub.com/wuchangyrjw/01/main/xzy1029.jar"},
 {"key" : "drpy_T4聚合","name" : "✨彩虹影视✨防迷路Q群614573061✨","type" : 3,"api" : "http://www.tvbox.lltv8.top/TVBox/JS/lib/drpy.min.js","ext":"http://www.tvbox.lltv8.top/TVBox/JS/js/drpy.js"},
 
@@ -52,11 +52,10 @@
             "searchable": 1,
             "ext": "https://api-tx.11ty.top",
             "m3u8ads": "hd.youyhn.com" },	    
-    	{"key":"csp_SP360","name":" 🌈360🌈","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://52bsj.vip:81/api/v3/file/get/5660/360.jar?sign=UvvtkxrYYz1CQrSzwD98cpU4wQwTatQcDYOTRQ8x3wU%3D%3A0"},	
+    	{"key":"csp_SP360","name":" 🍉360🍉","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://52bsj.vip:81/api/v3/file/get/5660/360.jar?sign=UvvtkxrYYz1CQrSzwD98cpU4wQwTatQcDYOTRQ8x3wU%3D%3A0"},	
 {"key":"csp_AppTT","name":"🐰图图影视🐰","type":3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ==","m3u8ads": "hd.youyhn.com"},
 
 {"key":"csp_apple","name":"🍎苹果App🍎","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_AppTT","name":"🐰图图影视🐰","type":3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ==","m3u8ads": "hd.youyhn.com"},
 
 //{"key": "Kunyu77","name": "「酷云七七」‖影剧‖","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
 
@@ -64,7 +63,7 @@
 
 //{"key": "csp_appys_酷影","name": "🍈酷影4K🍈","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://kuyun.realku.cn/api.php/app/"},
 
-{"key":"csp_AppYsV2_如意4K","name":"🌈彩虹影视🌈4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
+{"key":"csp_AppYsV2_如意4K","name":"🌈彩虹影视✨4K🌈","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
 
 //{"key": "csp_XYQHiker_乐猪影视","name": "🐷乐猪影视🐷","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.tvbox.lltv8.top/TVBox/Hk/XYQHiker/乐猪TV.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/1673971904.txt;md5;49825cb8ec405dfe5d14f6260b45a560"},
 
@@ -429,7 +428,7 @@
 {"key":"小学课堂","name":"📚小学┃课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://饭太硬.ga/x/json/小学课堂.json"},
 {"key":"初中课堂","name":"📚初中┃课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://饭太硬.ga/x/json/初中课堂.json"},
 {"key":"高中教育","name":"📚高中┃课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://饭太硬.ga/x/json/高中课堂.json"},
-    {"key":"22","name":"声明:资源采集于网络，请勿相信视频中的任何广告","type":0,"api":""},
+    {"key":"22","name":"资源采集于网络，请勿相信视频中滚动和穿插的任何广告","type":0,"api":""},
     {"key":"18","name":"声明:软件仅供学习参考，请于安装后24小时内删除","type":0,"api":""}
 ],
 
