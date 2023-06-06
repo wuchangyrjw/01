@@ -232,14 +232,7 @@
 
 {"key": "csp_xpath_dmw","name": "🌿动漫岛🌿","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.tvbox.lltv8.top/TVBox/MaooXP/dmw.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/1673971904.txt;md5;49825cb8ec405dfe5d14f6260b45a560"},
 
-{"key": "外语","name": "🍁外语学堂🍁","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "http://www.tvbox.lltv8.top/TVBox/Bilibili/哔哩外语.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/1673971904.txt;md5;49825cb8ec405dfe5d14f6260b45a560"},
 
-{"key": "学堂","name": "🍃学堂教育🍃","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "http://www.tvbox.lltv8.top/TVBox/Bilibili/吾爱学堂.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/1673971904.txt;md5;49825cb8ec405dfe5d14f6260b45a560"},
-
-{"key": "MV","name": "🍏哔哩MV🍏","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://www.tvbox.lltv8.top/TVBox/Bilibili/吾爱MTV.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/1673971904.txt;md5;49825cb8ec405dfe5d14f6260b45a560"},
-{"key":"csp_Bili","name":"🅱哔哔┃合集","type": 3,"api": "csp_Bili","searchable":1,"quickSearch": 0,"filterable": 0,"changeable":0,"ext":"http://饭太硬.ga/x/json/bilibili.json"},
-{"key":"csp_Biliych","name":"🅱哔哔┃演唱会","type": 3,"api": "csp_Bili","searchable":1,"quickSearch": 0,"filterable": 1,"changeable":0,"ext":"http://饭太硬.ga/x/json/biliych.json"},
-{"key": "戏曲自定义","name": "🍉哔哩戏曲🍉","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://www.tvbox.lltv8.top/TVBox/Bilibili/吾爱戏曲.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/1673971904.txt;md5;49825cb8ec405dfe5d14f6260b45a560"},
 
      {"key":"csp_Lgyy","name":"🌀蓝光直连🌀","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.vip"},
 
@@ -412,6 +405,15 @@
             "api" : "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
             "ext" : "https://jihulab.com/ygbh1/box/-/raw/main/JS/js/%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85.js"
         },
+
+{      "key": "csp_Dm84",      "name": "🚌动漫巴士🚌",      "type": 3,      "api": "csp_Dm84",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    },
+//{      "key": "csp_Ying",      "name": "💮樱花动漫",      "type": 3,      "api": "csp_Ying",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    },
+//{      "key": "csp_Ysj",      "name": "🎀异界动漫",      "type": 3,      "api": "csp_Ysj",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    },
+{      "key": "csp_Anime1",      "name": "🐾日本动漫🐾",      "type": 3,      "api": "csp_Anime1",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    },
+{"key": "外语","name": "🍁外语学堂🍁","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "http://www.tvbox.lltv8.top/TVBox/Bilibili/哔哩外语.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/1673971904.txt;md5;49825cb8ec405dfe5d14f6260b45a560"},
+
+{"key": "学堂","name": "🍃学堂教育🍃","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "http://www.tvbox.lltv8.top/TVBox/Bilibili/吾爱学堂.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/1673971904.txt;md5;49825cb8ec405dfe5d14f6260b45a560"},
+
         {
             "key" : "drpy_js_DJ音乐",
             "name" : "🎵DJ音乐🎵",
@@ -419,15 +421,25 @@
             "api" : "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
             "ext" : "https://jihulab.com/ygbh1/box/-/raw/main/JS/js/DJ%E9%9F%B3%E4%B9%90.js"
         },
-{      "key": "csp_Dm84",      "name": "🚌动漫巴士🚌",      "type": 3,      "api": "csp_Dm84",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    },
-//{      "key": "csp_Ying",      "name": "💮樱花动漫",      "type": 3,      "api": "csp_Ying",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    },
-//{      "key": "csp_Ysj",      "name": "🎀异界动漫",      "type": 3,      "api": "csp_Ysj",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    },
-{      "key": "csp_Anime1",      "name": "🐾日本动漫🐾",      "type": 3,      "api": "csp_Anime1",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    },
+{"key": "MV","name": "🍏哔哩MV🍏","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://www.tvbox.lltv8.top/TVBox/Bilibili/吾爱MTV.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/1673971904.txt;md5;49825cb8ec405dfe5d14f6260b45a560"},
+{"key":"csp_Bili","name":"🅱哔哔┃合集","type": 3,"api": "csp_Bili","searchable":1,"quickSearch": 0,"filterable": 0,"changeable":0,"ext":"http://饭太硬.ml/x/json/bilibili.json"},
+{"key":"csp_Biliych","name":"🅱哔哔┃演唱会","type": 3,"api": "csp_Bili","searchable":1,"quickSearch": 0,"filterable": 1,"changeable":0,"ext":"http://饭太硬.ml/x/json/biliych.json"},
+//{"key":"csp_Bili","name":"🅱哔哔┃合集","type": 3,"api": "csp_Bili","searchable":1,"quickSearch": 0,"filterable": 0,"changeable":0,"ext":"http://饭太硬.ga/x/json/bilibili.json"},
+//{"key":"csp_Biliych","name":"🅱哔哔┃演唱会","type": 3,"api": "csp_Bili","searchable":1,"quickSearch": 0,"filterable": 1,"changeable":0,"ext":"http://饭太硬.ga/x/json/biliych.json"},
+{"key": "戏曲自定义","name": "🍉哔哩戏曲🍉","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://www.tvbox.lltv8.top/TVBox/Bilibili/吾爱戏曲.json","jar":"http://www.tvbox.lltv8.top/TVBox/jar/1673971904.txt;md5;49825cb8ec405dfe5d14f6260b45a560"},
 {"key":"dr_兔小贝","name":"📚儿童┃启蒙","type":3,"api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/lib/drpy.min.js","ext":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/兔小贝.js","searchable": 0,"quickSearch": 0,"filterable": 0},
-{"key":"少儿教育","name":"📚少儿┃教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://饭太硬.ga/x/json/少儿教育.json"},
-{"key":"小学课堂","name":"📚小学┃课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://饭太硬.ga/x/json/小学课堂.json"},
-{"key":"初中课堂","name":"📚初中┃课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://饭太硬.ga/x/json/初中课堂.json"},
-{"key":"高中教育","name":"📚高中┃课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://饭太硬.ga/x/json/高中课堂.json"},
+{"key":"少儿教育","name":"📚少儿┃教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://饭太硬.ml/x/json/少儿教育.json"},
+{"key":"小学课堂","name":"📚小学┃课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://饭太硬.ml/x/json/小学课堂.json"},
+{"key":"初中课堂","name":"📚初中┃课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://饭太硬.ml/x/json/初中课堂.json"},
+{"key":"高中教育","name":"📚高中┃课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://饭太硬.ml/x/json/高中课堂.json"},
+//{"key":"dr_兔小贝","name":"📚儿童┃启蒙","type":3,"api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/lib/drpy.min.js","ext":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/兔小贝.js","searchable": 0,"quickSearch": 0,"filterable": 0},
+//{"key":"少儿教育","name":"📚少儿┃教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://饭太硬.ga/x/json/少儿教育.json"},
+//{"key":"小学课堂","name":"📚小学┃课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://饭太硬.ga/x/json/小学课堂.json"},
+//{"key":"初中课堂","name":"📚初中┃课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://饭太硬.ga/x/json/初中课堂.json"},
+//{"key":"高中教育","name":"📚高中┃课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://饭太硬.ga/x/json/高中课堂.json"},
+{"key":"csp_xp_qiumi","name":"⚽ Jrs┃球迷","type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "http://饭太硬.ml/x/xp/dj看球.json"},
+{"key":"csp_XYQBiu_310直播","name":"⚽310┃看球","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://饭太硬.ml/x/XYQ/310直播.json"},
+{"key":"csp_XPath_企鹅体育","name":"🐧企鹅┃体育","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://饭太硬.ml/x/xp/企鹅直播.json"},
     {"key":"22","name":"资源采集于网络，请勿相信视频中滚动和穿插的任何广告","type":0,"api":""},
     {"key":"18","name":"声明:软件仅供学习参考，请于安装后24小时内删除","type":0,"api":""}
 ],
