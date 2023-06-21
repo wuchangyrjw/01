@@ -1,6 +1,5 @@
 ﻿
 🌈彩虹影视,#genre#
-金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 翡翠台,http://flv.mp4cdn.live/gt-key=00569874.php?id=2
 HOY TV,http://flv.mp4cdn.live/gt-key=00569874.php?id=1
 明珠台,http://flv.mp4cdn.live/gt-key=00569874.php?id=3
@@ -460,24 +459,6 @@ CCTV4,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240363_1/encoder/0/pl
 CCTV4,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?
 CCTV4,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/001/2000204803.m3u8
 CCTV4,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000063
-CCTV1,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=cctv1hd8m/8000000
-CCTV2,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=cctv2hd8m/8000000
-CCTV3,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=cctv38m/8000000
-CCTV4,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=cctv4hd8m/8000000
-CCTV5,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=cctv58m/8000000
-CCTV5+,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=cctv5phd8m/8000000
-CCTV6,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=cctv6hd8m/8000000
-CCTV7,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=cctv7hd8m/8000000
-CCTV8,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=cctv8hd8m/8000000
-CCTV9,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=cctv9hd8m/8000000
-CCTV10,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=cctv10hd8m/8000000
-CCTV11,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=cctv11hd8m/8000000
-CCTV12,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=cctv12hd8m/8000000
-CCTV13,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=cctv13xwhd8m/8000000
-CCTV14,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=cctvsehd8m/8000000
-CCTV15,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=cctv15hd8m/8000000
-CCTV16,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=cctv16hd8m/8000000
-CCTV17,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=cctv17hd8m/8000000
 
 CCTV风云足球,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012514203.m3u8
 CCTV风云音乐,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012514103.m3u8
@@ -615,32 +596,6 @@ CCTV卫生健康,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/20125
 河北卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000293403.m3u8
 山东卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000294803.m3u8
 江西卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000294103.m3u8
-
-江苏卫视,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=jswshd8m/8000000
-广西卫视,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=gxwshd8m/8000000
-四川卫视,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=scwshd/8000000
-湖南卫视,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=hunanwshd8m/8000000
-浙江卫视,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=zjwshd8m/8000000
-东方卫视,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=dfwshd8m/8000000
-北京卫视,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=bjwshd8m/8000000
-天津卫视,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=tjwshd8m/8000000
-辽宁卫视,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=lnwshd8m/8000000
-安徽卫视,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=ahwshd8m/8000000
-黑龙江卫视,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=hljwshd8m/8000000
-广东卫视,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=gdwshd8m/8000000
-深圳卫视,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=szwshd8m/8000000
-湖北卫视,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=hubeiws8m/8000000
-吉林卫视,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=jlwshd8m/8000000
-山东卫视,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=sdws8m/8000000
-江西卫视,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=jxws8m/8000000
-河南卫视,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=hnwshd8m/8000000
-河北卫视,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=hbwshd8m/8000000
-甘肃卫视,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=gswshd8m/8000000
-重庆卫视,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=cqws8m/8000000
-东南卫视,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=dnwshd8m/8000000
-云南卫视,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=ynwshd8m/8000000
-贵州卫视,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=gzwshd8m/8000000
-海南卫视,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=hainanwshd8m/8000000
 
 📺8M专区,#genre#
 CCTV1,http://live.cooltv.top/tv/aishang.php?id=cctv1hd
