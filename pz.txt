@@ -3,7 +3,7 @@
 
 
 
-"spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;5b2f704da69aa9910a5246018d7baa6d",
+"spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;de0d7d8b7ef5c0d56aa0051e63aec89f",
 
 "lives":[
 
@@ -25,7 +25,7 @@
 "sites":[
 {
             "key": "js豆瓣1",
-            "name": "微信公众号【彩虹影视Pro】,勿信视频中嵌入广告，谨防诈骗",
+            "name": "勿信片中广告，谨防诈骗",
             "type": 3,
             "api": "http://xhww.fun:63/js/drpy1.min.js",
             "ext": "http://smallmi.xiaohewanwan.love:63/drpy.js",
